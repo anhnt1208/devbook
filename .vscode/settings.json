@@ -1,0 +1,4 @@
+{
+  "eslint.workingDirectories": ["./cookbook"],
+  "editor.formatOnSave": true
+}
