@@ -8,15 +8,15 @@
     "#root/*.js": "./*.js"
   },
   "devDependencies": {
-    "@types/jest": "^29.5.2",
+    "@types/jest": "^29.5.5",
     "@types/node": "^18.0.0",
-    "@typescript-eslint/eslint-plugin": "^5.62.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "gts": "^3.1.1",
-    "jest": "^29.5.0",
-    "ts-jest": "^29.1.0",
+    "@typescript-eslint/eslint-plugin": "^6.7.3",
+    "eslint-plugin-prettier": "^5.0.0",
+    "gts": "^5.0.1",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
     "ts-node": "^10.9.1",
-    "typescript": "~5.1.0"
+    "typescript": "~5.2.2"
   },
   "dependencies": {
     "@casl/ability": "6.5.0"
