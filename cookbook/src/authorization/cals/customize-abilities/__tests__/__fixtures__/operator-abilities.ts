@@ -3,7 +3,6 @@ import {
   AbilityFixture,
   orderFixture,
   productFixture,
-  shopFixture,
   userFixture,
 } from './fixtures';
 import {Role} from '../../../types';
