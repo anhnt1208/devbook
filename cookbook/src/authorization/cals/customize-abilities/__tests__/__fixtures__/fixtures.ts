@@ -6,7 +6,6 @@ import {
   Product,
   Role,
   Shop,
-  Subjects,
   User,
 } from '../../../types';
 
@@ -14,7 +13,7 @@ export type AbilityFixture = {
   name: string;
   configs: {
     action: Actions;
-    subject: string | Record<string, any>;
+    subject: string | Record<string, unknown>;
     field?: string;
   };
   expected: boolean;
