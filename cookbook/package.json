@@ -19,7 +19,7 @@
     "typescript": "~5.2.2"
   },
   "dependencies": {
-    "@casl/ability": "6.5.0"
+    "@casl/ability": "6.6.0"
   },
   "scripts": {
     "exec": "ts-node",
